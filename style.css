@@ -62,8 +62,6 @@ html {
 
 .loading-wrapper {
   background-image: url("https://www.gif-vif.com/trending/amazinn-sound-wave-display-bpapyv8zmhsnbn81.gif");
-  background-repeat: no-repeat;
-  background-size: 100%;
   position: fixed;
   width: 100vw;
   height: 100vh;
