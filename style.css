@@ -350,8 +350,9 @@ header {
   text-align: center;
 
   color: #ffffff;
+  background-image: url("https://media.tenor.com/KTBcxAGCseYAAAAe/hearing-aid-deaf.png");
   background-size: 100%;
-  background-repeat: repeat;
+  background-repeat: no-repeat;
 
 }
 
