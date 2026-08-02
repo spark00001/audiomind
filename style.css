@@ -124,8 +124,7 @@ body {
 
 header {
   width: 100%;
-  background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),
-    url("/hackathon-project/images/cover-bg.jpg");
+  background-image: url("https://media.tenor.com/KTBcxAGCseYAAAAe/hearing-aid-deaf.png");
   background-position: center;
   background-size: cover;
   position: relative;
@@ -350,9 +349,8 @@ header {
   text-align: center;
 
   color: #ffffff;
-  background-image: url("https://media.tenor.com/KTBcxAGCseYAAAAe/hearing-aid-deaf.png");
   background-size: 100%;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
 
 }
 
